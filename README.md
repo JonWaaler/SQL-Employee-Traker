@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=baSOEOSLylA&ab_channel=Jon
 
 ## Console Pictures <a name='picture'></a>
 
-![Alt text](https://i.imgur.com/7hca3Lz.png)
+![Alt text](https://i.imgur.com/tSId8Ew.png)
 
 ## License <a name='license'></a>
 
